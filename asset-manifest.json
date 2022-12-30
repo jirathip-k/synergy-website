@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/synergy-website/static/css/main.f19d0dcd.css",
+    "main.js": "/synergy-website/static/js/main.45785946.js",
+    "static/media/about-image.png": "/synergy-website/static/media/about-image.6647ffb946c6c81e2b40.png",
+    "static/media/layer7.png": "/synergy-website/static/media/layer7.43b480ce21763cad9fdd.png",
+    "static/media/layer6.png": "/synergy-website/static/media/layer6.fdc15d6ba49278c97cbe.png",
+    "static/media/layer5.png": "/synergy-website/static/media/layer5.d2cd8d4bbbc626c24cb8.png",
+    "static/media/logo.png": "/synergy-website/static/media/logo.580c6451622cb5fef08f.png",
+    "static/media/layer1.png": "/synergy-website/static/media/layer1.9dab9c517f583d6f0f20.png",
+    "static/media/layer2.png": "/synergy-website/static/media/layer2.3a4bf8ca61cf75d1f25f.png",
+    "static/media/layer3.png": "/synergy-website/static/media/layer3.bcc1b6a7a18a43aa8e8a.png",
+    "static/media/layer4.png": "/synergy-website/static/media/layer4.c9334b3e53fb12b5875e.png",
+    "index.html": "/synergy-website/index.html",
+    "main.f19d0dcd.css.map": "/synergy-website/static/css/main.f19d0dcd.css.map",
+    "main.45785946.js.map": "/synergy-website/static/js/main.45785946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f19d0dcd.css",
+    "static/js/main.45785946.js"
+  ]
+}
