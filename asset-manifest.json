@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/synergy-website/static/css/main.f19d0dcd.css",
-    "main.js": "/synergy-website/static/js/main.c5b9598f.js",
+    "main.js": "/synergy-website/static/js/main.2003eed2.js",
     "static/media/add-img.png": "/synergy-website/static/media/add-img.b25c7297c6d78ce6b878.png",
     "static/media/about-image.png": "/synergy-website/static/media/about-image.6647ffb946c6c81e2b40.png",
     "static/media/10.png": "/synergy-website/static/media/10.8cb6bc1080a5916d61bc.png",
@@ -63,10 +63,10 @@
     "static/media/layer4.png": "/synergy-website/static/media/layer4.c9334b3e53fb12b5875e.png",
     "index.html": "/synergy-website/index.html",
     "main.f19d0dcd.css.map": "/synergy-website/static/css/main.f19d0dcd.css.map",
-    "main.c5b9598f.js.map": "/synergy-website/static/js/main.c5b9598f.js.map"
+    "main.2003eed2.js.map": "/synergy-website/static/js/main.2003eed2.js.map"
   },
   "entrypoints": [
     "static/css/main.f19d0dcd.css",
-    "static/js/main.c5b9598f.js"
+    "static/js/main.2003eed2.js"
   ]
 }
